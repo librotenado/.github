@@ -18,4 +18,15 @@ and filings, with the existing European formats as translations.
 - **Made for synchronisation** – an event model with end-to-end encryption, for apps, relays and servers of any vendor.
 - **Open for everyone** – specification under CC BY 4.0, reference library under MIT.
 
+### The name
+
+```
+LIBRO + TENi + ADO → librotenado
+```
+
+*librotenado* is Esperanto for bookkeeping: *libro* (book) + *teni* (to keep) + *-ado* (ongoing action) – book-keeping,
+word for word. The dictionary explains it as entering income and expenditure, *en- kaj el-spezoj*, into the books –
+the very word spezado, its first implementation, is named after. Esperanto belongs to no nation and takes its roots
+mostly from European languages – fitting for a protocol meant to become a European standard. Say *li-bro-te-NA-do*.
+
 The first implementation is [spezado](https://github.com/spezado), free accounting for everyone.
